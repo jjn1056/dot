@@ -1,0 +1,7 @@
+[user]
+	email = jjn1056@yahoo.com
+	name = John Napiorkowski
+[core]
+	excludesfile = /Users/jnapiorkowski/.gitignore
+[color]
+	ui = auto
